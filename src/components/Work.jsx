@@ -26,12 +26,12 @@ function Work() {
                 RedStore website
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://redestore.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/RaghadAlmalla98/Red_Store">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -49,12 +49,12 @@ function Work() {
                 HairStudio website
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://hairsttudio.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/RaghadAlmalla98/Barber-Shop-Website">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -72,12 +72,12 @@ function Work() {
                 Weather Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://appweathersite.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/RaghadAlmalla98/react_weather_app">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -95,12 +95,12 @@ function Work() {
                 Restaurant website
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://gerichrssestaurant.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/RaghadAlmalla98/GerichRestaurant">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
