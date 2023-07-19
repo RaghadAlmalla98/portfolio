@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar.jsx";
 import About from "./components/About.jsx";
 import Skills from "./components/Skills.jsx";
 import Contact from "./components/Contact";
-import Work from "./components/Work";
+import Worke from "./components/Worke.jsx";
 function App() {
   return (
     <div>
@@ -11,7 +11,7 @@ function App() {
       <Home />
       <About />
       <Skills />
-      <Work />
+      <Worke />
       <Contact />
     </div>
   );

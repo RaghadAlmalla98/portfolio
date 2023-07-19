@@ -3,7 +3,9 @@ import Weather from "../assets/weather.jpg";
 import GerichtRestaurant from "../assets/gericht_restaurant.jpg";
 import RedStore from "../assets/red_store.jpg";
 import HairStudio from "../assets/hairstudio.jpg";
-function Work() {
+
+import WorkImg from "../assets/workImg.jpeg";
+function Worke() {
   return (
     <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
@@ -13,15 +15,14 @@ function Work() {
           </p>
           <p className="py-6">Check out some of my recent Work</p>
         </div>
-
         {/* Container */}
-        <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${RedStore})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* "Hover Effect" */}
+            {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
                 RedStore website
@@ -44,7 +45,7 @@ function Work() {
             style={{ backgroundImage: `url(${HairStudio})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* "Hover Effect" */}
+            {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
                 HairStudio website
@@ -67,7 +68,7 @@ function Work() {
             style={{ backgroundImage: `url(${Weather})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* "Hover Effect" */}
+            {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Weather Application
@@ -86,11 +87,12 @@ function Work() {
               </div>
             </div>
           </div>
+
           <div
             style={{ backgroundImage: `url(${GerichtRestaurant})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* "Hover Effect" */}
+            {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Restaurant website
@@ -115,4 +117,4 @@ function Work() {
   );
 }
 
-export default Work;
+export default Worke;
